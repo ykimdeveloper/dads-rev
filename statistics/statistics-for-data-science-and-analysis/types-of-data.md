@@ -10,14 +10,21 @@ description: >-
 **Types of data:** A way to classify data. There are two types of data - categorical and numerical.
 {% endhint %}
 
-```mermaid
+![](../../.gitbook/assets/mermaid-diagram-20220619220724.png)
+
+<details>
+
+<summary>Mermaid syntax</summary>
+
+```
 graph TD
     A[Types of Data] --> B[Categorical]
     A[Types of Data]  --> C[Numerical]
     C[Numerical] --> D[Discrete]
-    C[Numerical] --> E[Continuous]
-
+    C[Numerical] --> E[Continuous] 
 ```
+
+</details>
 
 There is categorical and numerical data, categorical data describes categories or groups. Instances of questions that answers to yes and no questions are categorical questions.
 
@@ -35,10 +42,10 @@ Mercedes       113	          34%
 Total	       335	         100%		
 									
 				
-Ordered	   Frequency	Relative frequency	Cumulative frequency	
-Audi	     124	          37%                     37%	
-Mercedes     113                  34%                     71%	
-BMW	     98                   29%                     100%	
+Ordered	    Frequency	   Relative frequency	  Cumulative frequency	
+Audi	      124	           37%                     37%	
+Mercedes      113                  34%                     71%	
+BMW	      98                   29%                     100%	
 				
 ```
 
@@ -65,3 +72,10 @@ Continuous data is infinite and impossible to count. Your exact weight can take 
 {% hint style="info" %}
 **variable:** A characteristic of a unit which may assume more than one value. Eg. height, occupation, age etc.
 {% endhint %}
+
+
+
+
+
+## &#x20;<a href="#class-diagrams" id="class-diagrams"></a>
+
