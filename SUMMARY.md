@@ -1,6 +1,6 @@
 # Table of contents
 
-* [d.a.d.s. review](README.md)
+* [Data Analysis + Data Science review](README.md)
 
 ## Statistics
 
