@@ -6,7 +6,7 @@ Another classification of data is known as levels of measurement.
 **levels of measurement:** A way to classify data. There are two levels of measurement - qualitative and quantitative, which are further classed into nominal & ordinal, and ratio & interval, respectively.
 {% endhint %}
 
-![](../../.gitbook/assets/mermaid-diagram-20220622173638.png)
+![](../../../.gitbook/assets/mermaid-diagram-20220622173638.png)
 
 <details>
 
@@ -41,6 +41,8 @@ Ordinal data consists of groups and categories which follow a strict order.
 
 Imagine you have been asked to rate your lunch and the options are: disgusting, unappetizing, neutral, tasty, and delicious. These preferences are ordered from negative to positive, thus the level of measurement is qualitative, ordinal.
 
+Gender is a nominal variable as genders cannot be put in any order.
+
 {% hint style="info" %}
 **ordinal:** Refers to variables that describe different categories, but can be ordered.
 {% endhint %}
@@ -60,6 +62,8 @@ Ratios have a true zero and intervals don’t. Most things we observe in the rea
 {% endhint %}
 
 If I have 2 apples and you have 6 apples, you would have 3 times as many as I do. The ratio of 6 and 2 is 3.
+
+Weight is a ratio variable. It is quantitative and there is a true zero point.
 
 
 

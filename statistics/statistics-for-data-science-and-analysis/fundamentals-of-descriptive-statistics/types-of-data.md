@@ -10,7 +10,7 @@ description: >-
 **Types of data:** A way to classify data. There are two types of data - categorical and numerical.
 {% endhint %}
 
-![](../../.gitbook/assets/mermaid-diagram-20220619220724.png)
+![](../../../.gitbook/assets/mermaid-diagram-20220619220724.png)
 
 <details>
 
