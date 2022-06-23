@@ -2,9 +2,9 @@
 coverY: 0
 ---
 
-# d.a.d.s. review
+# Data Analysis + Data Science review
 
-## Welcome to my learning journal!
+## Data Analysis & Data Science Review
 
 I wish I had done this earlier while I was in college. This is primarily a summary of everything fundamental to data analytics and data science and is by no means exhaustive but concise.
 
