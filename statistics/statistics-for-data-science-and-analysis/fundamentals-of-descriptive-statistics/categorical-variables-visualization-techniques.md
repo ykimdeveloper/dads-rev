@@ -63,11 +63,19 @@ Perito diagram combines the strong size of the bar and the pie chart. It is easy
 **Pareto diagram:** A special type of bar chart, where frequencies are shown in descending order. There is an additional line on the chart, showing the cumulative frequency.
 {% endhint %}
 
+## Frequency visualizations
+
+There is an ice cream shop, that is operating in New York, LA and San Francisco. You have sold 12,327 ice creams in New York; 17,129 in LA and 19,923 in San Francisco. Order the data in a frequency distribution table.
+
+|               | Frequency | Relative Frequecy              | Cumulative Frequency |
+| ------------- | --------- | ------------------------------ | -------------------- |
+| San Francisco | 19,923    | 19,923/49379 \*100 = 40.34 40% | 40%                  |
+| LA            | 17,129    | 17,129/49379 \*100 = 34.68 35% | 75%                  |
+| New York      | 12,327    | 12,327/49379 \*100 = 24.96 25% | 100%                 |
+| Total         | 49379     | 100%                           |                      |
 
 
 
 
 
-
-
-
+{% file src="../../../.gitbook/assets/Chart-Visualization.xlsx" %}
