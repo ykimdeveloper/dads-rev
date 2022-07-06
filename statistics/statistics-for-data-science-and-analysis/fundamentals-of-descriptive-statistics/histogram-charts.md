@@ -20,5 +20,18 @@ There can be histograms with unequal intervals such as age surveys that are cate
 
 
 
+{% file src="../../../.gitbook/assets/Histogram-exercise.xlsx" %}
+MS Excel format
+{% endfile %}
 
+{% file src="../../../.gitbook/assets/Histogram_Chart.xlsx" %}
+MS Excel format
+{% endfile %}
 
+{% file src="../../../.gitbook/assets/Normal distribution Histogram (1).xlsx" %}
+MS Excel format
+{% endfile %}
+
+#### Resources
+
+{% embed url="https://www.goskills.com/Excel/Resources/Excel-histogram" %}

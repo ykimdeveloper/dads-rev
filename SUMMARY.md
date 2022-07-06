@@ -14,6 +14,7 @@
     * [Histogram charts](statistics/statistics-for-data-science-and-analysis/fundamentals-of-descriptive-statistics/histogram-charts.md)
     * [Cross tables and scatter plots](statistics/statistics-for-data-science-and-analysis/fundamentals-of-descriptive-statistics/cross-tables-and-scatter-plots.md)
   * [Measures of central tendency, asymmetry, and variability](statistics/statistics-for-data-science-and-analysis/measures-of-central-tendency-asymmetry-and-variability/README.md)
+    * [Mean, median and mode](statistics/statistics-for-data-science-and-analysis/measures-of-central-tendency-asymmetry-and-variability/mean-median-and-mode.md)
     * [template](statistics/statistics-for-data-science-and-analysis/measures-of-central-tendency-asymmetry-and-variability/template.md)
 
 ## Data Structures & Algorithms
