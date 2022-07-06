@@ -1,5 +1,5 @@
 ## This is a review of data analysis & data science in a gitbook format
-https://yosep-kim.gitbook.io/dads-review/
+https://yosep-kim.gitbook.io/dads-review
 
 # Table of contents
 
