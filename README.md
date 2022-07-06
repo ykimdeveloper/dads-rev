@@ -1,4 +1,6 @@
-### This is a review of daata analysis & data science review in a gitbook format
+## This is a review of data analysis & data science review in a gitbook format
+https://yosep-kim.gitbook.io/dads-review/
+
 # Table of contents
 
 * [Data Analysis + Data Science review](README.md)
