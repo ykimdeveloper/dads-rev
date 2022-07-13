@@ -1,10 +1,28 @@
-# Histogram charts
+# Cross tables and histogram charts
 
 ![](../../../.gitbook/assets/mermaid-diagram-20220619220724.png)
 
 Histograms categorizes numeric data into bar graphs with numeric x and y axis.&#x20;
 
+{% hint style="info" %}
+cross table (contigency table) = A table which represents categorical data. On one axis we have the categories, and on the other - their frequencies. It can be built with absolute or relative frequencies.
+{% endhint %}
+
 ![](<../../../.gitbook/assets/Screenshot 2022-07-01 4.39.24 PM.png>) ![](<../../../.gitbook/assets/Screenshot 2022-07-01 4.39.00 PM.png>)
+
+
+
+
+
+{% hint style="info" %}
+histogram = A type of bar chart that represents numerical data. It is divided into intervals (or bins) that are not overlapping and span from the first observation to the last. The intervals (bins) are adjacent - where one stops, the other starts.
+{% endhint %}
+
+{% hint style="info" %}
+bins (histogram) = The intervals that are represented in a histogram.
+{% endhint %}
+
+
 
 ![](<../../../.gitbook/assets/Screenshot 2022-07-01 4.43.10 PM.png>)
 
