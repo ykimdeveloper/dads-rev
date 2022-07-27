@@ -4,7 +4,7 @@
 
 ## Statistics
 
-* [Statistics for Data Science and Analysis](statistics/statistics-for-data-science-and-analysis/README.md)
+* [Statistics for Data Science and Data Analysis](statistics/statistics-for-data-science-and-analysis/README.md)
   * [Sample vs Population](statistics/statistics-for-data-science-and-analysis/sample-vs-population.md)
   * [Fundamentals of descriptive statistics](statistics/statistics-for-data-science-and-analysis/fundamentals-of-descriptive-statistics/README.md)
     * [Types of Data](statistics/statistics-for-data-science-and-analysis/fundamentals-of-descriptive-statistics/types-of-data.md)
