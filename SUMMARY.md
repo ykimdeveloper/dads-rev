@@ -20,9 +20,23 @@
     * [Standard deviation and coefficient of variation](statistics/statistics-for-data-science-and-analysis/measures-of-central-tendency-asymmetry-and-variability/standard-deviation-and-coefficient-of-variation.md)
     * [Calculating and understanding covariance](statistics/statistics-for-data-science-and-analysis/measures-of-central-tendency-asymmetry-and-variability/calculating-and-understanding-covariance.md)
     * [The correlation coefficient](statistics/statistics-for-data-science-and-analysis/measures-of-central-tendency-asymmetry-and-variability/the-correlation-coefficient.md)
-  * [Descriptive statistics](statistics/statistics-for-data-science-and-analysis/descriptive-statistics/README.md)
-    * [Practical examples of descriptive statistics](statistics/statistics-for-data-science-and-analysis/descriptive-statistics/practical-examples-of-descriptive-statistics.md)
-  * [Page 1](statistics/statistics-for-data-science-and-analysis/page-1.md)
+  * [Practical example: descriptive statistics](statistics/statistics-for-data-science-and-analysis/practical-example-descriptive-statistics/README.md)
+    * [Practical examples of descriptive statistics](statistics/statistics-for-data-science-and-analysis/practical-example-descriptive-statistics/practical-examples-of-descriptive-statistics.md)
+  * [Distribution: inferential statistics](statistics/statistics-for-data-science-and-analysis/distribution-inferential-statistics.md)
+
+## Relational Database SQL
+
+* [LyricDB SQL](relational-database-sql/lyricdb-sql/README.md)
+  * [Relational database concepts](relational-database-sql/lyricdb-sql/relational-database-concepts.md)
+  * [Basic SQL Syntax](relational-database-sql/lyricdb-sql/basic-sql-syntax.md)
+  * [Aggregations and Sub-queries](relational-database-sql/lyricdb-sql/aggregations-and-sub-queries/README.md)
+    * [Lab 01](relational-database-sql/lyricdb-sql/aggregations-and-sub-queries/lab-01.md)
+    * [Lab 01 solution](relational-database-sql/lyricdb-sql/aggregations-and-sub-queries/lab-01-solution.md)
+* [ Master SQL For Data Science](relational-database-sql/master-sql-for-data-science/README.md)
+  * [SQL basics](relational-database-sql/master-sql-for-data-science/sql-basics/README.md)
+    * [Create Table and Insert Statements](relational-database-sql/master-sql-for-data-science/sql-basics/create-table-and-insert-statements/README.md)
+      * [Questions](relational-database-sql/master-sql-for-data-science/sql-basics/create-table-and-insert-statements/questions.md)
+    * [Introducing the SELECT Statement](relational-database-sql/master-sql-for-data-science/sql-basics/introducing-the-select-statement.md)
 
 ## Data Structures & Algorithms
 
