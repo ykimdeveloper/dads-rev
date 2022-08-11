@@ -1,6 +1,4 @@
-# Lab 01 solution
-
-## Lab 1
+# Lab 1A
 
 Total points: 10pts (each problem 1 point)
 
@@ -15,5 +13,4 @@ Total points: 10pts (each problem 1 point)
 9. Report region and the number of members in each region in the members table. Sort the results by the region.
 10. For any region that has more than one member with an e-mail address, list the region and the number of members with an e-mail address.
 
-> \
->
+\

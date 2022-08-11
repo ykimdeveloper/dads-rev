@@ -1,7 +1,5 @@
 # Aggregations and Sub-queries
 
-## Aggregations and Sub-queries
-
 In this lesson, we will learn aggregations for better data reporting like summarizing data into few numbers (e.g. counting how many records in table) and do query against our own query (queryception!) for advance report.
 
 ### Objectives
@@ -26,15 +24,15 @@ In this lesson, we will learn aggregations for better data reporting like summar
 
 It's important for students to know the table structure before students start to design any sort of query. You got to understand what the database is for first.
 
-A general rule to get all tables:
+A general rule to get all tables MYSQL:
 
-```
+```sql
 SHOW TABLES;
 ```
 
 And with the table name, you can type in the following command to see their columns:
 
-```
+```sql
 DESCRIBE {table};
 ```
 
@@ -42,7 +40,7 @@ I strongly recommend you to prepare a pen and paper to start writing down all ta
 
 For example:
 
-```
+```sql
 Artist(
   ArtistId,
   ArtistName,
@@ -128,7 +126,7 @@ Is there other way you can represent the table?
 
 ER Diagram (Entity-Relationship)! -- [http://www.tutorialspoint.com/dbms/er\_diagram\_representation.htm](http://www.tutorialspoint.com/dbms/er\_diagram\_representation.htm)
 
-![](../../../.gitbook/assets/lyricDB.jpg)
+![](../../.gitbook/assets/lyricDB.jpg)
 
 
 
@@ -413,7 +411,7 @@ WHERE {column} {comparison} {ANY|ALL} (
 
 Example:
 
-```
+```sql
 # List the name, region, and birthday of every member who is older than all
 # of the members in Gerorgia (GA)
 SELECT LastName, FirstName, Region, Birthday
